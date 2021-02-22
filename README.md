@@ -18,7 +18,7 @@ Once imported, the function can be called directly as such:
 isARegularObject({}); // true
 isARegularObject({one: 'uno', two: 'dos'}); // true
 isARegularObject({numbers: [1, 2, 3], letters: ['a', 'b', 'c']}); // true
-
+ 
 isARegularObject(null); // false
 isARegularObject([]); // false
 isARegularObject([1, 2, 3]); // false
