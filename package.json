@@ -1,6 +1,6 @@
 {
   "name": "@toolz/is-a-regular-object-react",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "private": false,
   "description": "Utility function for identifying regular JavaScript objects in React projects",
   "keywords": [
